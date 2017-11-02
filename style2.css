@@ -1,0 +1,38 @@
+.extreme {
+	color: blue;
+	text-align: center;
+	background-color: orange;
+}
+
+#head1 {
+	font-size: 300%;
+	border: 1px solid green;
+	color: green;
+	background-color: red;
+}
+
+.navzone {
+	color: orange;
+	background-color: lightsteelblue
+}
+
+.content {
+	color: yellow;
+	font-size: 100%;
+	background-color: pink;
+}
+
+.prose {
+	color: yellow;
+	background-color: purple;
+	
+}
+
+
+ul {
+	list-style-image: url('yoda.png')
+}
+
+a {
+	color : lighsteelblue
+}
